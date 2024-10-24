@@ -33,7 +33,7 @@ for i in range(0,k):
 	elif l[i]>=501:
     		   subsidy=l[i]*s
     		   print("The sibsidy for the %dst month is %.2f"%(i+1, subsidy))
-    		   total=total+subsidy
+    		 
       
 
 
